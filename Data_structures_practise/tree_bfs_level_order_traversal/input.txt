@@ -1,0 +1,15 @@
+Sample Input
+
+     1
+      \
+       2
+        \
+         5
+        /  \
+       3    6
+        \
+         4  
+
+Sample Output
+
+1 2 5 3 6 4
